@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "coins_greedy",
+    "coins_dynamic_programming"
+]
